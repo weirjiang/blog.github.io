@@ -1,1 +1,195 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T11:32:04.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.4.1" etag="QeIqHv2cCNUxruNFJAWS" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-21T09:57:05.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="w0MArTvcLTy7yU57PWui" version="15.4.1" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2031" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-0" target="zLkHopNUh4ZbSe_MO6ih-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-0" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="100" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-1" target="zLkHopNUh4ZbSe_MO6ih-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-1" target="zLkHopNUh4ZbSe_MO6ih-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-1" target="zLkHopNUh4ZbSe_MO6ih-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-1" value="抽奖参数校验&lt;br&gt;抽奖时间校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-3" target="zLkHopNUh4ZbSe_MO6ih-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-3" value="调用营销中台接口创建抽奖项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-5" target="zLkHopNUh4ZbSe_MO6ih-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-5" value="抽奖数据写入DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-10" value="是&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-7" target="zLkHopNUh4ZbSe_MO6ih-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-15" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.583;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-7" target="zLkHopNUh4ZbSe_MO6ih-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-7" value="是否实时抽奖？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="670" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-9" target="zLkHopNUh4ZbSe_MO6ih-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-9" value="抽奖数据写缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-11" target="zLkHopNUh4ZbSe_MO6ih-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-11" value="下发咚咚消息通知客户端" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="800" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-13" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-18" target="zLkHopNUh4ZbSe_MO6ih-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-18" value="抽奖开始定时任务开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-19" target="zLkHopNUh4ZbSe_MO6ih-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-19" value="查询预约时间小于当前时间的未开始的抽奖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-20" target="zLkHopNUh4ZbSe_MO6ih-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-20" value="更改抽奖状态" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-22" target="zLkHopNUh4ZbSe_MO6ih-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-22" value="抽奖数据写入缓存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-24" target="zLkHopNUh4ZbSe_MO6ih-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-24" value="下发抽奖开始咚咚消息通知客户端" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-27" value="job结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-29" target="zLkHopNUh4ZbSe_MO6ih-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-29" value="抽奖结束定时任务开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-32" target="zLkHopNUh4ZbSe_MO6ih-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-32" value="查询正在进行中的抽奖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-38" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-35" target="zLkHopNUh4ZbSe_MO6ih-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-42" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-35" target="zLkHopNUh4ZbSe_MO6ih-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-35" value="直播间不存在或者&lt;br&gt;直播间状态不是为1、10、11" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1405" y="425" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-37" target="zLkHopNUh4ZbSe_MO6ih-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-37" value="更改抽奖状态为2" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-39" target="zLkHopNUh4ZbSe_MO6ih-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-39" value="删除缓存&lt;br&gt;发送抽奖结束咚咚消息通知客户端" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-43" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-41" target="zLkHopNUh4ZbSe_MO6ih-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1770" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-47" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-41" target="zLkHopNUh4ZbSe_MO6ih-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-41" value="抽奖时间是否小于于当前时间？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1675" y="425" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-44" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1440" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-46" target="zLkHopNUh4ZbSe_MO6ih-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2040" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-50" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zLkHopNUh4ZbSe_MO6ih-49">
+          <mxGeometry x="-0.3857" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-46" value="1分钟后是否有待开始的豆券抽奖" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1945" y="425" width="190" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-52" target="zLkHopNUh4ZbSe_MO6ih-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-52" value="豆券抽奖&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-53" target="zLkHopNUh4ZbSe_MO6ih-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-53" value="实物抽奖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-54" target="zLkHopNUh4ZbSe_MO6ih-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-54" value="普通抽奖" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-58" target="zLkHopNUh4ZbSe_MO6ih-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-58" value="调用营销中台接口创建抽奖项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="410" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zLkHopNUh4ZbSe_MO6ih-59" target="zLkHopNUh4ZbSe_MO6ih-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zLkHopNUh4ZbSe_MO6ih-59" value="调用游戏精灵接口校验抽奖活动参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
